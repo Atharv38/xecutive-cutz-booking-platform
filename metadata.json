@@ -1,0 +1,8 @@
+{
+  "name": "Xecutive Cutz",
+  "description": "Precision haircuts, skin fades, beard sculpting, and online appointment booking platform for Xecutive Cutz barbershop in Dallas, Texas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
