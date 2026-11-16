@@ -16,4 +16,4 @@ Full-stack web application, real-time appointment scheduler, and owner admin das
 ### Owner Admin Portal (`/admin`)
 - **Two-Way Supabase Admin Sync:** Automatic reconciliation between the local Express/SQLite server and Supabase (`admin_fetch_dashboard_data`, `admin_update_appointment_status`, `admin_delete_appointment`, `admin_update_customer`, and `sync_customer_profile` RPCs) with Row-Level Security support.
 - **Booking & Revenue Management:** Approve (`pending` → `confirmed`), complete, reschedule, mark no-show, cancel, or delete appointments with real-time completed revenue analytics and weekly/monthly charts.
-- **Customer Directory & Verification:** Tracks client classifications (*Google Profile*, *Registered*, *Guest Booking*, *Walk-In*), email verification status, account tiers (*Active*, *VIP*, *
+- **Customer Directory & Verification:** Tracks client classifications (*Google Profile*, *Registered*, *Guest Booking*, *Walk-In*), email verification status, account tiers 
